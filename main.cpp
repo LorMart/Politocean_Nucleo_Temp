@@ -10,6 +10,7 @@
 #include "nsapi_types.h"
 #include "cmsis_os2.h"
 
+#define trytodelete 
 
 //uint8_t mac = 0X2c549188c9e3;
 unsigned short  int port = 1884;
